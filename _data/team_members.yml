@@ -1,0 +1,24 @@
+# - name:
+#   photo: foo.jpg
+#   info:
+#   email:
+#   number_educ: 5
+#   education1:
+#   education2:
+#   education3:
+#   education4:
+#   education5:
+
+- name: Fabien Reyal, MD, PhD
+  photo: fabien.jpg
+  info: Lab Director
+  email: foo@curie.fr
+  number_educ: 1
+  education1:
+
+- name: Anne-Sophie Hamy Petit, MD, PhD
+  photo: anne-sophie.jpeg
+  info:
+  email: foo@curie.fr
+  number_educ: 1
+  education1:
