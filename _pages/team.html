@@ -1,0 +1,36 @@
+---
+title: "Team"
+layout: gridlay
+excerpt: "RT2 Lab: Team members"
+sitemap: false
+permalink: /team/
+---
+
+{% for team in site.data.team_members %}
+    <h3>{{team.display_name}}</h3>
+
+    {% for member in team.members %}
+        <div class="card mb-3" style="max-width: 600px;">
+            <div class="row no-gutters">
+                <div class="col-md-3">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
+                     class="card-img img-responsive"
+                     style="filter: grayscale(100%);"/>
+                </div>
+                <div class="col-md-9">
+                <div class="card-body">
+                <h5 class="card-title">{{ member.name }}</h5>
+                <p class="card-text">{{ member.info }}</p>
+
+                <ul>
+                    {% for education in member.education %}
+                        <li>{{education}}</li>
+                    {% endfor %}
+                </ul>
+                </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+
+{% endfor %}

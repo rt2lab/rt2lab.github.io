@@ -1,12 +1,12 @@
 ---
-title: "RT2 Lab - Home"
+title: "Home"
 layout: homelay
 excerpt: "RT2 Lab at Institut Curie"
 sitemap: false
 permalink: /
 ---
 
-## About the Lab
+### About the Lab
 
 ![curie-psl](../images/logo/curie-psl.png)
 
