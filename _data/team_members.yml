@@ -7,8 +7,9 @@
       email: foo@curie.fr
       twitter: foo
       education:
-        - foo
-        - bar
+        - PhD, University Paris Sud (Paris XI)
+        - Master, Université Paris Descartes (Paris V)
+        - MD, Université Paris Diderot
 
     - name: Anne-Sophie Hamy Petit, MD, PhD
       photo: anne-sophie.jpeg
@@ -16,8 +17,9 @@
       email: foo@curie.fr
       twitter: foo
       education:
-        - foo
-        - bar
+        - PhD, University Paris Sud (Paris XI)
+        - Medical Gynecology Fellow, UPMC (Paris VI)
+        - MD, Université Paris Descartes (Paris V)
 
 - students:
   display_name: Students
@@ -28,5 +30,5 @@
       email: foo@curie.fr
       twitter: foo
       education:
-        - ECAM Lyon, MSc in Software Engineering, Electronics
-        - CentraleSupélec, MSc in Software Engineering
+        - MSc, CentraleSupélec
+        - MSc, ECAM Lyon
