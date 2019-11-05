@@ -1,24 +1,31 @@
-# - name:
-#   photo: foo.jpg
-#   info:
-#   email:
-#   number_educ: 5
-#   education1:
-#   education2:
-#   education3:
-#   education4:
-#   education5:
+- staff:
+  display_name: Staff
+  members:
+    - name: Fabien Reyal, MD, PhD
+      photo: fabien.jpg
+      info: Lab Director
+      email: foo@curie.fr
+      twitter: foo
+      education:
+        - foo
+        - bar
 
-- name: Fabien Reyal, MD, PhD
-  photo: fabien.jpg
-  info: Lab Director
-  email: foo@curie.fr
-  number_educ: 1
-  education1:
+    - name: Anne-Sophie Hamy Petit, MD, PhD
+      photo: anne-sophie.jpeg
+      info: Lab co-director
+      email: foo@curie.fr
+      twitter: foo
+      education:
+        - foo
+        - bar
 
-- name: Anne-Sophie Hamy Petit, MD, PhD
-  photo: anne-sophie.jpeg
-  info:
-  email: foo@curie.fr
-  number_educ: 1
-  education1:
+- students:
+  display_name: Students
+  members:
+    - name: Eric Daoud
+      photo: eric.png
+      info: PhD Student
+      email: foo@curie.fr
+      twitter: foo
+      education:
+        - foo
