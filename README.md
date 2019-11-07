@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/775b106c-92df-4e60-b794-f0752b44c910/deploy-status)](https://app.netlify.com/sites/gracious-darwin-4e0c9b/deploys)
-
 # RT2 Lab Website
 
 This website is built with [Jekyll](https://jekyllrb.com/).
@@ -31,9 +29,9 @@ bundle exec jekyll serve
 
 New data must be added under the [_data](_data/) directory:
 
-- [news.yml](_data/_site/news.yml): Add news
-- [publist.yml](_data/_site/publist.yml): Add publications
-- [team_members.yml](_data/_site/team_members.yml): Add new team members
+- [news.yml](_data/news.yml): Add news
+- [publist.yml](_data/publist.yml): Add publications
+- [team_members.yml](_data/team_members.yml): Add new team members
 
 Data from this directory can be used in pages as follows:
 
