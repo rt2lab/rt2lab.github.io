@@ -8,18 +8,18 @@ permalink: /team/
 
 {% for team in site.data.team_members %}
     <h3>{{team.display_name}}</h3>
-
-    {% for member in team.members %}
-        <div class="card mb-3" style="max-width: 600px;">
+    <ul class="list-unstyled">
+        {% for member in team.members %}
+        <div class="card mb-3">
             <div class="row no-gutters">
                 <div class="col-md-3">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
                      class="card-img img-responsive"
-                     style="filter: grayscale(100%);"/>
+                     style="filter: grayscale(100%); max-width: 100px;"/>
                 </div>
                 <div class="col-md-9">
                 <div class="card-body">
-                <h5 class="card-title">{{ member.name }}</h5>
+                <h4 class="card-title">{{ member.name }}</h4>
                 <p class="card-text">{{ member.info }}</p>
 
                 <ul>
@@ -31,6 +31,7 @@ permalink: /team/
                 </div>
             </div>
         </div>
-    {% endfor %}
+        {% endfor %}
+    </ul>
 
 {% endfor %}
