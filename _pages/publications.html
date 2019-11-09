@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: gridlay
+layout: default
 excerpt: "RT2 Lab -- Publications."
 sitemap: false
 permalink: /publications/
@@ -9,11 +9,11 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 <div class="media">
-<div class="media-body">
-    <h5 class="mt-0"><a target="_blank" href="{{ publi.link.url }}">{{ publi.title }}</a></h5>
-    <p>{{ publi.authors }}<br>
-    {{ publi.journal }}, {{ publi.year }}</p>
-</div>
+    <div class="media-body">
+        <h5 class="mt-0"><a target="_blank" href="{{ publi.link.url }}">{{ publi.title }}</a></h5>
+        <p>{{ publi.authors }} <br>
+        {{ publi.journal }}, {{ publi.year }}</p>
+    </div>
 </div>
 
 {% endfor %}

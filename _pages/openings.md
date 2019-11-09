@@ -1,6 +1,6 @@
 ---
 title: "Vacancies"
-layout: textlay
+layout: default
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies

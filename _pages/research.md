@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: textlay
+layout: default
 excerpt: "RT2 Lab -- Research"
 sitemap: false
 permalink: /research/
