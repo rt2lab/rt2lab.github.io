@@ -14,6 +14,14 @@ figcaption {
   margin-bottom: 20px;
 }
 
+.breadcrumb {
+  background: none;
+  border: none;
+  display: block;
+  margin-left: 0;
+  padding-left: 0;
+}
+
 .nopadding-left {
   padding-left: 0 !important;
   margin-left: 0 !important;
@@ -24,12 +32,17 @@ figcaption {
   margin-right: 0 !important;
 }
 
+.team-member-card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
   max-width: 900px; /* or 950px */
 }
-/* Carusel */
+/* Carousel */
 
 .carousel {
   border-radius: 3px 3px 3px 3px;

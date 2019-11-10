@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="col-sm-12">
+    <div class=row>
+        <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/team">Team</a></li>
+            <li class="breadcrumb-item text-capitalize"><a href="/team#{{ page.category }}">{{ page.category }}</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+        </ol>
+        </nav>
+    </div>
+    <div class="row text-center">
+        <!-- Avatar -->
+        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}"
+             class="img-circle"
+             style="filter: grayscale(100%); max-width: 200px;"/>
+
+        <!-- Name & Role -->
+        <h1>{{ page.title }}</h1>
+        <h3>{{ page.role }}</h3>
+
+        <!-- Social -->
+        <ul class="list-inline list-unstyled">
+            <li><a href="{{page.social.twitter}}"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="{{page.social.linkedin}}"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="{{page.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+        </ul>
+    </div>
+
+    <!-- Education -->
+    <div class="row">
+        <h3>Education</h3>
+        <ul class="list-unstyled">
+            {% for education in page.education %}
+                <li>{{education}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="row">
+        <h3>Bio</h3>
+        {{ content }}
+    </div>
+</div>
