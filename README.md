@@ -25,28 +25,70 @@ bundle exec jekyll serve
 
 ## Contribute
 
-### Edit Data
+### Add a new member
 
-New data must be added under the [_data](_data/) directory:
+New members are stored as markdown files under [_pages/team/_posts](_pages/team/_posts).
 
-- [news.yml](_data/news.yml): Add news
-- [publist.yml](_data/publist.yml): Add publications
-- [team_members.yml](_data/team_members.yml): Add new team members
+Each new member `.md` file must look like this:
 
-Data from this directory can be used in pages as follows:
+``` yaml
+---
+layout: member
+category: staff
+title: Name of the member
+image: Image filename, stored in /images
+role: Member role
+permalink: 'team/member-slug'
+social:
+    twitter: https://twitter.com/member
+    linkedin: https://linkedin.com/in/member
+    google-scholar: https://scholar.google.com/citations?user=member-id
+education:
+ - Education 1
+ - Education 2
+---
 
-``` html
-<ul class="list-unstyled">
-    {% for article in site.data.news %}
-        <li class="media">
-            <div class="media-body">
-            <h4 class="mt-0 mb-1">{{ article.title }}</h4>
-            <p><small>{{ article.date }}</small></p>
-            {{ article.content }}
-            </div>
-        </li>
-    {% endfor %}
-</ul>
+Write her bio text.
+```
+
+### Add a new publication
+
+Publications are stored as `.yml` file under [_data/publist.yml](_data/publist.yml).
+
+Just add a new entry to the list like this:
+
+``` yaml
+- title: "Celecoxib With Neoadjuvant Chemotherapy for
+          Breast Cancer Might Worsen Outcomes
+          Differentially by COX-2 Expression and ER Status:
+          Exploratory Analysis of the REMAGUS02 Trial"
+  image:
+  description:
+  authors: Hamy et al.
+  year: 2019
+  journal: Journal of Clinical Oncology
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30702971
+    display: Pubmed Link
+```
+
+### Add news
+
+Publications are stored as `.yml` file under [_data/news.yml](_data/news.yml).
+
+An entry looks like the following:
+
+```yaml
+- date: 03/09/19
+  title: "Something great"
+  tags:
+    - some
+    - tags
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
+    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
+    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
 ```
 
 ### Edit template
