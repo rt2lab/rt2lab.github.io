@@ -1,0 +1,1573 @@
+[
+	{
+		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"type": "article-journal",
+		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
+		"container-title": "IEEE Transactions on Medical Imaging",
+		"page": "448-459",
+		"volume": "38",
+		"issue": "2",
+		"source": "IEEE Xplore",
+		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
+		"DOI": "10.1109/TMI.2018.2865709",
+		"author": [
+			{
+				"family": "Naylor",
+				"given": "P."
+			},
+			{
+				"family": "Laé",
+				"given": "M."
+			},
+			{
+				"family": "Reyal",
+				"given": "F."
+			},
+			{
+				"family": "Walter",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/CW3XP9A4",
+		"type": "article-journal",
+		"title": "Pathological complete response and prognosis after neoadjuvant chemotherapy for HER2-positive breast cancers before and after trastuzumab era: results from a real-life cohort",
+		"container-title": "British Journal of Cancer",
+		"source": "PubMed",
+		"abstract": "BACKGROUND: Trastuzumab was introduced a decade ago and has improved outcomes for HER2-positive breast cancer. We investigated the factors predictive of pathological complete response (pCR), prognostic factors for disease-free survival (DFS), and interactions between pCR and DFS after neoadjuvant treatment.\nMETHODS: We identified 287 patients with primary HER2-positive breast cancers given neoadjuvant chemotherapy (NAC) between 2002 and 2011. Univariate and multivariate analyses of clinical and pathological factors associated with pCR and DFS were performed.\nRESULTS: pCR rates differed between patients receiving neoadjuvant trastuzumab treatment or not (47.7% versus 19.3%, P<0.0001). DFS also differed significantly between patients receiving adjuvant trastuzumab or not (hazard ratio=4.84, 95% CI (2.52; 9.31), P<0.001). We analysed 199 patients given neoadjuvant and adjuvant trastuzumab. Multivariate analysis identified older age and hormone receptor-negative tumours as independent predictors of pCR. T stage (hazard ratio=2.55, 95% CI (1.01; 6.48), P=0.05) and strict pCR (hazard ratio=9.15, 95% CI (1.22; 68.83), P=0.03) were independent predictors of DFS. The latter association was significant in the HR-negative subgroup (P=0.02) but not in the HR-positive subgroup (P=0.12).\nCONCLUSIONS: Major pCR and DFS gains in HER2-positive BC were observed since 'trastuzumab' era. Further improvements rely on the enrollment of accurately selected patients into clinical trials.British Journal of Cancer advance online publication 10 December 2015; doi:10.1038/bjc.2015.426 www.bjcancer.com.",
+		"DOI": "10.1038/bjc.2015.426",
+		"ISSN": "1532-1827",
+		"note": "PMID: 26657653",
+		"title-short": "Pathological complete response and prognosis after neoadjuvant chemotherapy for HER2-positive breast cancers before and after trastuzumab era",
+		"journalAbbreviation": "Br. J. Cancer",
+		"language": "ENG",
+		"author": [
+			{
+				"family": "Hamy-Petit",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Belin",
+				"given": "Lisa"
+			},
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "Hélène"
+			},
+			{
+				"family": "Paquet",
+				"given": "Caroline"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean-Yves"
+			},
+			{
+				"family": "Lerebours",
+				"given": "Florence"
+			},
+			{
+				"family": "Cottu",
+				"given": "Paul"
+			},
+			{
+				"family": "Rouzier",
+				"given": "Roman"
+			},
+			{
+				"family": "Savignoni",
+				"given": "Alexia"
+			},
+			{
+				"family": "Lae",
+				"given": "Marick"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/UPY7TSCX",
+		"type": "article-journal",
+		"title": "Beyond Axillary Lymph Node Metastasis, BMI and Menopausal Status Are Prognostic Determinants for Triple-Negative Breast Cancer Treated by Neoadjuvant Chemotherapy",
+		"container-title": "PloS One",
+		"page": "e0144359",
+		"volume": "10",
+		"issue": "12",
+		"source": "PubMed",
+		"abstract": "BACKGROUND: Triple-negative breast cancers (TNBC) are a specific subtype of breast cancers with a particularly poor prognosis. However, it is a very heterogeneous subgroup in terms of clinical behavior and sensitivity to systemic treatments. Thus, the identification of risk factors specifically associated with those tumors still represents a major challenge. A therapeutic strategy increasingly used for TNBC patients is neoadjuvant chemotherapy (NAC). Only a subset of patients achieves a pathologic complete response (pCR) after NAC and have a better outcome than patients with residual disease.\nPURPOSE: The aim of this study is to identify clinical factors associated with the metastatic-free survival in TNBC patients who received NAC.\nMETHODS: We analyzed 326 cT1-3N1-3M0 patients with ductal infiltrating TNBC treated by NAC. The survival analysis was performed using a Cox proportional hazard model to determine clinical features associated with prognosis on the whole TNBC dataset. In addition, we built a recursive partitioning tree in order to identify additional clinical features associated with prognosis in specific subgroups of TNBC patients.\nRESULTS: We identified the lymph node involvement after NAC as the only clinical feature significantly associated with a poor prognosis using a Cox multivariate model (HR = 3.89 [2.42-6.25], p<0.0001). Using our recursive partitioning tree, we were able to distinguish 5 subgroups of TNBC patients with different prognosis. For patients without lymph node involvement after NAC, obesity was significantly associated with a poor prognosis (HR = 2.64 [1.28-5.55]). As for patients with lymph node involvement after NAC, the pre-menopausal status in grade III tumors was associated with poor prognosis (HR = 9.68 [5.71-18.31]).\nCONCLUSION: This study demonstrates that axillary lymph node status after NAC is the major prognostic factor for triple-negative breast cancers. Moreover, we identified body mass index and menopausal status as two other promising prognostic factors in this breast cancer subgroup. Using these clinical factors, we were able to classify TNBC patients in 5 subgroups, for which pre-menopausal patients with grade III tumors and lymph node involvement after NAC have the worse prognosis.",
+		"DOI": "10.1371/journal.pone.0144359",
+		"ISSN": "1932-6203",
+		"note": "PMID: 26684197",
+		"journalAbbreviation": "PLoS ONE",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "Hélène"
+			},
+			{
+				"family": "Chaltier",
+				"given": "Léonor"
+			},
+			{
+				"family": "Belin",
+				"given": "Lisa"
+			},
+			{
+				"family": "Savignoni",
+				"given": "Alexia"
+			},
+			{
+				"family": "Rouzier",
+				"given": "Roman"
+			},
+			{
+				"family": "Sablin",
+				"given": "Marie-Paule"
+			},
+			{
+				"family": "Lerebours",
+				"given": "Florence"
+			},
+			{
+				"family": "Bidard",
+				"given": "François-Clément"
+			},
+			{
+				"family": "Cottu",
+				"given": "Paul"
+			},
+			{
+				"family": "Sastre-Garau",
+				"given": "Xavier"
+			},
+			{
+				"family": "Laé",
+				"given": "Marick"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean-Yves"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/CXX5BGRE",
+		"type": "article-journal",
+		"title": "A Stromal Immune Module Correlated with the Response to Neoadjuvant Chemotherapy, Prognosis and Lymphocyte Infiltration in HER2-Positive Breast Carcinoma Is Inversely Correlated with Hormonal Pathways",
+		"container-title": "PloS One",
+		"page": "e0167397",
+		"volume": "11",
+		"issue": "12",
+		"source": "PubMed",
+		"abstract": "INTRODUCTION: HER2-positive breast cancer (BC) is a heterogeneous group of aggressive breast cancers, the prognosis of which has greatly improved since the introduction of treatments targeting HER2. However, these tumors may display intrinsic or acquired resistance to treatment, and classifiers of HER2-positive tumors are required to improve the prediction of prognosis and to develop novel therapeutic interventions.\nMETHODS: We analyzed 2893 primary human breast cancer samples from 21 publicly available datasets and developed a six-metagene signature on a training set of 448 HER2-positive BC. We then used external public datasets to assess the ability of these metagenes to predict the response to chemotherapy (Ignatiadis dataset), and prognosis (METABRIC dataset).\nRESULTS: We identified a six-metagene signature (138 genes) containing metagenes enriched in different gene ontologies. The gene clusters were named as follows: Immunity, Tumor suppressors/proliferation, Interferon, Signal transduction, Hormone/survival and Matrix clusters. In all datasets, the Immunity metagene was less strongly expressed in ER-positive than in ER-negative tumors, and was inversely correlated with the Hormonal/survival metagene. Within the signature, multivariate analyses showed that strong expression of the \"Immunity\" metagene was associated with higher pCR rates after NAC (OR = 3.71[1.28-11.91], p = 0.019) than weak expression, and with a better prognosis in HER2-positive/ER-negative breast cancers (HR = 0.58 [0.36-0.94], p = 0.026). Immunity metagene expression was associated with the presence of tumor-infiltrating lymphocytes (TILs).\nCONCLUSION: The identification of a predictive and prognostic immune module in HER2-positive BC confirms the need for clinical testing for immune checkpoint modulators and vaccines for this specific subtype. The inverse correlation between Immunity and hormone pathways opens research perspectives and deserves further investigation.",
+		"DOI": "10.1371/journal.pone.0167397",
+		"ISSN": "1932-6203",
+		"note": "PMID: 28005906\nPMCID: PMC5178998",
+		"journalAbbreviation": "PLoS ONE",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "Hélène"
+			},
+			{
+				"family": "Lae",
+				"given": "Marick"
+			},
+			{
+				"family": "Moarii",
+				"given": "Matahi"
+			},
+			{
+				"family": "Sadacca",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Pinheiro",
+				"given": "Alice"
+			},
+			{
+				"family": "Galliot",
+				"given": "Marion"
+			},
+			{
+				"family": "Abecassis",
+				"given": "Judith"
+			},
+			{
+				"family": "Laurent",
+				"given": "Cecile"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/9HKXHKYJ",
+		"type": "article-journal",
+		"title": "Biological network-driven gene selection identifies a stromal immune module as a key determinant of triple-negative breast carcinoma prognosis",
+		"container-title": "Oncoimmunology",
+		"page": "e1061176",
+		"volume": "5",
+		"issue": "1",
+		"source": "PubMed",
+		"abstract": "Triple-negative breast cancer (TNBC) is a heterogeneous group of aggressive breast cancers for which no targeted treatment is available. Robust tools for TNBC classification are required, to improve the prediction of prognosis and to develop novel therapeutic interventions. We analyzed 3,247 primary human breast cancer samples from 21 publicly available datasets, using a five-step method: (1) selection of TNBC samples by bimodal filtering on ER-HER2 and PR, (2) normalization of the selected TNBC samples, (3) selection of the most variant genes, (4) identification of gene clusters and biological gene selection within gene clusters on the basis of String© database connections and gene-expression correlations, (5) summarization of each gene cluster in a metagene. We then assessed the ability of these metagenes to predict prognosis, on an external public dataset (METABRIC). Our analysis of gene expression (GE) in 557 TNBCs from 21 public datasets identified a six-metagene signature (167 genes) in which the metagenes were enriched in different gene ontologies. The gene clusters were named as follows: Immunity1, Immunity2, Proliferation/DNA damage, AR-like, Matrix/Invasion1 and Matrix2 clusters respectively. This signature was particularly robust for the identification of TNBC subtypes across many datasets (n = 1,125 samples), despite technology differences (Affymetrix© A, Plus2 and Illumina©). Weak Immunity two metagene expression was associated with a poor prognosis (disease-specific survival; HR = 2.68 [1.59-4.52], p = 0.0002). The six-metagene signature (167 genes) was validated over 1,125 TNBC samples. The Immunity two metagene had strong prognostic value. These findings open up interesting possibilities for the development of new therapeutic interventions.",
+		"DOI": "10.1080/2162402X.2015.1061176",
+		"ISSN": "2162-4011",
+		"note": "PMID: 26942074\nPMCID: PMC4760294",
+		"journalAbbreviation": "Oncoimmunology",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "H."
+			},
+			{
+				"family": "Sadacca",
+				"given": "B."
+			},
+			{
+				"family": "Hamy-Petit",
+				"given": "A. S."
+			},
+			{
+				"family": "Moarii",
+				"given": "M."
+			},
+			{
+				"family": "Pinheiro",
+				"given": "A."
+			},
+			{
+				"family": "Laurent",
+				"given": "C."
+			},
+			{
+				"family": "Reyal",
+				"given": "F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/99Q4IKCJ",
+		"type": "article-journal",
+		"title": "Breast cancer genome and transcriptome integration implicates specific mutational signatures with immune cell infiltration",
+		"container-title": "Nature Communications",
+		"volume": "7",
+		"source": "PubMed Central",
+		"abstract": "A recent comprehensive whole genome analysis of a large breast cancer cohort was used to link known and novel drivers and substitution signatures to the transcriptome of 266 cases. Here, we validate that subtype-specific aberrations show concordant expression changes for, for example, TP53, PIK3CA, PTEN, CCND1 and CDH1. We find that CCND3 expression levels do not correlate with amplification, while increased GATA3 expression in mutant GATA3 cancers suggests GATA3 is an oncogene. In luminal cases the total number of substitutions, irrespective of type, associates with cell cycle gene expression and adverse outcome, whereas the number of mutations of signatures 3 and 13 associates with immune-response specific gene expression, increased numbers of tumour-infiltrating lymphocytes and better outcome. Thus, while earlier reports imply that the sheer number of somatic aberrations could trigger an immune-response, our data suggests that substitutions of a particular type are more effective in doing so than others., \nRecent studies using in depth DNA sequencing techniques led to the identification of cancer driver genes but mainly focused on the effect on their expression. Here, the authors analyse 266 cases of breast cancer and report gene expression signatures associated with the number and character of signature mutations.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052682/",
+		"DOI": "10.1038/ncomms12910",
+		"ISSN": "2041-1723",
+		"note": "PMID: 27666519\nPMCID: PMC5052682",
+		"journalAbbreviation": "Nat Commun",
+		"author": [
+			{
+				"family": "Smid",
+				"given": "Marcel"
+			},
+			{
+				"family": "Rodríguez-González",
+				"given": "F. Germán"
+			},
+			{
+				"family": "Sieuwerts",
+				"given": "Anieta M."
+			},
+			{
+				"family": "Salgado",
+				"given": "Roberto"
+			},
+			{
+				"family": "Prager-Van der Smissen",
+				"given": "Wendy J. C."
+			},
+			{
+				"family": "Vlugt-Daane",
+				"given": "Michelle",
+				"dropping-particle": "van der"
+			},
+			{
+				"family": "Galen",
+				"given": "Anne",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Nik-Zainal",
+				"given": "Serena"
+			},
+			{
+				"family": "Staaf",
+				"given": "Johan"
+			},
+			{
+				"family": "Brinkman",
+				"given": "Arie B."
+			},
+			{
+				"family": "Vijver",
+				"given": "Marc J.",
+				"non-dropping-particle": "van de"
+			},
+			{
+				"family": "Richardson",
+				"given": "Andrea L."
+			},
+			{
+				"family": "Fatima",
+				"given": "Aquila"
+			},
+			{
+				"family": "Berentsen",
+				"given": "Kim"
+			},
+			{
+				"family": "Butler",
+				"given": "Adam"
+			},
+			{
+				"family": "Martin",
+				"given": "Sancha"
+			},
+			{
+				"family": "Davies",
+				"given": "Helen R."
+			},
+			{
+				"family": "Debets",
+				"given": "Reno"
+			},
+			{
+				"family": "Gelder",
+				"given": "Marion E. Meijer-Van"
+			},
+			{
+				"family": "Deurzen",
+				"given": "Carolien H. M.",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "MacGrogan",
+				"given": "Gaëtan"
+			},
+			{
+				"family": "Van den Eynden",
+				"given": "Gert G. G. M."
+			},
+			{
+				"family": "Purdie",
+				"given": "Colin"
+			},
+			{
+				"family": "Thompson",
+				"given": "Alastair M."
+			},
+			{
+				"family": "Caldas",
+				"given": "Carlos"
+			},
+			{
+				"family": "Span",
+				"given": "Paul N."
+			},
+			{
+				"family": "Simpson",
+				"given": "Peter T."
+			},
+			{
+				"family": "Lakhani",
+				"given": "Sunil R."
+			},
+			{
+				"family": "Van Laere",
+				"given": "Steven"
+			},
+			{
+				"family": "Desmedt",
+				"given": "Christine"
+			},
+			{
+				"family": "Ringnér",
+				"given": "Markus"
+			},
+			{
+				"family": "Tommasi",
+				"given": "Stefania"
+			},
+			{
+				"family": "Eyford",
+				"given": "Jorunn"
+			},
+			{
+				"family": "Broeks",
+				"given": "Annegien"
+			},
+			{
+				"family": "Vincent-Salomon",
+				"given": "Anne"
+			},
+			{
+				"family": "Futreal",
+				"given": "P. Andrew"
+			},
+			{
+				"family": "Knappskog",
+				"given": "Stian"
+			},
+			{
+				"family": "King",
+				"given": "Tari"
+			},
+			{
+				"family": "Thomas",
+				"given": "Gilles"
+			},
+			{
+				"family": "Viari",
+				"given": "Alain"
+			},
+			{
+				"family": "Langerød",
+				"given": "Anita"
+			},
+			{
+				"family": "Børresen-Dale",
+				"given": "Anne-Lise"
+			},
+			{
+				"family": "Birney",
+				"given": "Ewan"
+			},
+			{
+				"family": "Stunnenberg",
+				"given": "Hendrik G."
+			},
+			{
+				"family": "Stratton",
+				"given": "Mike"
+			},
+			{
+				"family": "Foekens",
+				"given": "John A."
+			},
+			{
+				"family": "Martens",
+				"given": "John W. M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/6JFXKGH3",
+		"type": "article-journal",
+		"title": "COX2/PTGS2 Expression Is Predictive of Response to Neoadjuvant Celecoxib in HER2-negative Breast Cancer Patients",
+		"container-title": "Anticancer Research",
+		"page": "1485-1490",
+		"volume": "38",
+		"issue": "3",
+		"source": "ar.iiarjournals.org.gate2.inist.fr",
+		"URL": "http://ar.iiarjournals.org/content/38/3/1485",
+		"ISSN": "0250-7005, 1791-7530",
+		"note": "PMID: 29491076",
+		"journalAbbreviation": "Anticancer Res",
+		"language": "en",
+		"author": [
+			{
+				"family": "Cremoux",
+				"given": "Patricia De"
+			},
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Lehmann-Che",
+				"given": "Jacqueline"
+			},
+			{
+				"family": "Scott",
+				"given": "Véronique"
+			},
+			{
+				"family": "Sigal",
+				"given": "Brigitte"
+			},
+			{
+				"family": "Mathieu",
+				"given": "Marie-Christine"
+			},
+			{
+				"family": "Bertheau",
+				"given": "Philippe"
+			},
+			{
+				"family": "Guinebretière",
+				"given": "Jean Marc"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean Yves"
+			},
+			{
+				"family": "Giacchetti",
+				"given": "Sylvie"
+			},
+			{
+				"family": "Brain",
+				"given": "Etienne"
+			},
+			{
+				"family": "Marty",
+				"given": "Michel"
+			},
+			{
+				"family": "Asselain",
+				"given": "Bernard"
+			},
+			{
+				"family": "Spyratos",
+				"given": "Frédérique"
+			},
+			{
+				"family": "Bièche",
+				"given": "Ivan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					3,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/VQ57364G",
+		"type": "article-journal",
+		"title": "Neoadjuvant treatment: the future of patients with breast cancer",
+		"container-title": "ESMO open",
+		"page": "e000371",
+		"volume": "3",
+		"issue": "4",
+		"source": "PubMed",
+		"DOI": "10.1136/esmoopen-2018-000371",
+		"ISSN": "2059-7029",
+		"note": "PMID: 29862051\nPMCID: PMC5976132",
+		"title-short": "Neoadjuvant treatment",
+		"journalAbbreviation": "ESMO Open",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Reyal",
+				"given": "F."
+			},
+			{
+				"family": "Hamy",
+				"given": "A. S."
+			},
+			{
+				"family": "Piccart",
+				"given": "Martine J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/EL97LZ2H",
+		"type": "article-journal",
+		"title": "Neoadjuvant treatment for intermediate/high-risk HER2-positive and triple-negative breast cancers: no longer an “option” but an ethical obligation.",
+		"container-title": "ESMO open",
+		"author": [
+			{
+				"family": "Brandao",
+				"given": "M"
+			},
+			{
+				"family": "Reyal",
+				"given": "F."
+			},
+			{
+				"family": "Hamy",
+				"given": "AS"
+			},
+			{
+				"family": "Piccart",
+				"given": "M"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/QEVRP9GY",
+		"type": "article-journal",
+		"title": "Prognostic Impact of Time to Ipsilateral Breast Tumor Recurrence after Breast Conserving Surgery",
+		"container-title": "PloS One",
+		"page": "e0159888",
+		"volume": "11",
+		"issue": "8",
+		"source": "PubMed",
+		"abstract": "BACKGROUND: The poor prognosis of patients who experience ipsilateral breast tumor recurrence (IBTR) after breast conserving surgery (BCS) is established. A short time between primary cancer and IBTR is a prognostic factor but no clinically relevant threshold was determined. Classification of IBTR may help tailor treatment strategies.\nPURPOSE: We determined a specific time frame, which differentiates IBTR into early and late recurrence, and identified prognostic factors for patients with IBTR at time of the recurrence.\nMETHODS: We analyzed 2209 patients with IBTR after BCS. We applied the optimal cut-points method for survival data to determine the cut-off times to IBTR. A subgroup analysis was performed by hormone receptor (HR) status. Survival analyses were performed using a Cox proportional hazard model to determine clinical features associated with distant-disease-free survival (DDFS) after IBTR. We therefor built decision trees.\nRESULTS: On the 828 metastatic events observed, the majority occurred within the first 3 months after IBTR: 157 in the HR positive group, 98 in the HR negative group. We found different prognostic times to IBTR: 49 months in the HR positive group, 33 in the HR negative group. After multivariate analysis, time to IBTR was the first discriminant prognostic factor in both groups (HR 0.65 CI95% [0.54-0.79] and 0.42 [0.30-0.57] respectively). The other following variables were significantly correlated with the DDFS: the initial number of positive lymph nodes for both groups, the initial tumor size and grade for HR positive tumors.\nCONCLUSION: A short interval time to IBTR is the strongest factor of poor prognosis and reflects occult distant disease. It would appear that prognosis after IBTR depends more on clinical and histological parameters than on surgical treatment. A prospective trial in a low-risk group of patients to validate the safety of salvage BCS instead of mastectomy in IBTR is needed.",
+		"DOI": "10.1371/journal.pone.0159888",
+		"ISSN": "1932-6203",
+		"note": "PMID: 27494111\nPMCID: PMC4975471",
+		"journalAbbreviation": "PLoS ONE",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Gosset",
+				"given": "Marie"
+			},
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Mallon",
+				"given": "Peter"
+			},
+			{
+				"family": "Delomenie",
+				"given": "Myriam"
+			},
+			{
+				"family": "Mouttet",
+				"given": "Delphine"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean-Yves"
+			},
+			{
+				"family": "Lae",
+				"given": "Marick"
+			},
+			{
+				"family": "Fourquet",
+				"given": "Alain"
+			},
+			{
+				"family": "Rouzier",
+				"given": "Roman"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			},
+			{
+				"family": "Feron",
+				"given": "Jean-Guillaume"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/IVC77QPE",
+		"type": "article-journal",
+		"title": "Stromal lymphocyte infiltration after neoadjuvant chemotherapy is associated with aggressive residual disease and lower disease-free survival in HER2-positive breast cancer",
+		"container-title": "Annals of Oncology: Official Journal of the European Society for Medical Oncology",
+		"page": "2233-2240",
+		"volume": "28",
+		"issue": "9",
+		"source": "PubMed",
+		"abstract": "Background: The role of tumor-infiltrating lymphocytes (TILs) in breast cancer has been extensively studied over the last decade. High TILs levels have been associated with pathological response rate in the neoadjuvant setting and with better outcomes in the adjuvant setting. However, little attention has been paid to changes in TILs and residual TIL levels after neoadjuvant chemotherapy (NAC). We investigated TIL levels before, after chemotherapy, and their dynamics during treatment; and we assessed the correlation of these levels with response to NAC and prognosis.\nMaterials and methods: We identified 175 patients with primary HER2-positive breast cancers receiving NAC+/- trastuzumab between 2002 and 2011. Microbiopsy specimens and paired surgical samples were evaluated for stromal lymphocyte infiltration. Univariate and multivariate analyses were carried out to assess the association of clinical and pathological factors with pathological complete response (pCR) and disease-free survival.\nResults: Baseline TIL levels were not significantly associated with pCR. TIL levels decreased during treatment in 78% of the patients. The magnitude of the decrease was strongly associated with pCR. After chemotherapy, TIL levels were high in tumors displaying aggressive patterns (high residual cancer burden score, mitotic index >22, tumor cellularity >5%). In the population with residual disease, TIL levels >25% at the end of NAC were significantly associated with an adverse outcome (TILs >25%, HR = 7.98, P = 0.009) after multivariate analyses including BMI, post-NAC mitotic index and tumor grade.\nConclusion: A decrease in TIL levels during chemotherapy was positively associated with response to treatment. In tumor failing to achieve pCR, post-NAC lymphocytic infiltration was associated with higher residual tumor burden and adverse clinical outcome. Further studies are required to characterize immune infiltration in residual disease to identify candidates who could benefit from second-line therapy trials including immune checkpoint inhibitors.",
+		"DOI": "10.1093/annonc/mdx309",
+		"ISSN": "1569-8041",
+		"note": "PMID: 28911063",
+		"journalAbbreviation": "Ann. Oncol.",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Hamy",
+				"given": "A.-S."
+			},
+			{
+				"family": "Pierga",
+				"given": "J.-Y."
+			},
+			{
+				"family": "Sabaila",
+				"given": "A."
+			},
+			{
+				"family": "Laas",
+				"given": "E."
+			},
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "H."
+			},
+			{
+				"family": "Laurent",
+				"given": "C."
+			},
+			{
+				"family": "Vincent-Salomon",
+				"given": "A."
+			},
+			{
+				"family": "Cottu",
+				"given": "P."
+			},
+			{
+				"family": "Lerebours",
+				"given": "F."
+			},
+			{
+				"family": "Rouzier",
+				"given": "R."
+			},
+			{
+				"family": "Lae",
+				"given": "M."
+			},
+			{
+				"family": "Reyal",
+				"given": "F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/2DKRPA85",
+		"type": "article-journal",
+		"title": "Lymphovascular invasion after neoadjuvant chemotherapy is strongly associated with poor prognosis in breast carcinoma",
+		"container-title": "Breast Cancer Research and Treatment",
+		"source": "PubMed",
+		"abstract": "PURPOSE: Few studies evaluated the prognostic value of the presence of lymphovascular invasion (LVI) after neoadjuvant chemotherapy (NAC) for breast cancer (BC).\nMETHODS: The association between LVI and survival was evaluated in a cohort of BC patients treated by NAC between 2002 and 2011. Five post-NAC prognostic scores (ypAJCC, RCB, CPS, CPS + EG and Neo-Bioscore) were evaluated and compared with or without the addition of LVI.\nRESULTS: Out of 1033 tumors, LVI was present on surgical specimens in 29.2% and absent in 70.8% of the cases. Post-NAC LVI was associated with impaired disease-free survival (DFS) (HR 2.54; 95% CI 1.96-3.31; P < 0.001), and the magnitude of this effect depended on BC subtype (Pinteraction = 0.003), (luminal BC: HR 1.83; P = 0.003; triple negative BC: HR 3.73; P < 0.001; HER2-positive BC: HR 6.21; P < 0.001). Post-NAC LVI was an independent predictor of local relapse, distant metastasis, and overall survival; and increased the accuracy of all five post-NAC prognostic scoring systems.\nCONCLUSIONS: Post-NAC LVI is a strong independent prognostic factor that: (i) should be systematically reported in pathology reports; (ii) should be used as stratification factor after NAC to propose inclusion in second-line trials or adjuvant treatment; (iii) should be included in post-NAC scoring systems.",
+		"DOI": "10.1007/s10549-017-4610-0",
+		"ISSN": "1573-7217",
+		"note": "PMID: 29374852",
+		"journalAbbreviation": "Breast Cancer Res. Treat.",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Lam",
+				"given": "Giang-Thanh"
+			},
+			{
+				"family": "Laas",
+				"given": "Enora"
+			},
+			{
+				"family": "Darrigues",
+				"given": "Lauren"
+			},
+			{
+				"family": "Balezeau",
+				"given": "Thomas"
+			},
+			{
+				"family": "Guerin",
+				"given": "Julien"
+			},
+			{
+				"family": "Livartowski",
+				"given": "Alain"
+			},
+			{
+				"family": "Sadacca",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean-Yves"
+			},
+			{
+				"family": "Vincent-Salomon",
+				"given": "Anne"
+			},
+			{
+				"family": "Coussy",
+				"given": "Florence"
+			},
+			{
+				"family": "Becette",
+				"given": "Veronique"
+			},
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "Hélène"
+			},
+			{
+				"family": "Rouzier",
+				"given": "Roman"
+			},
+			{
+				"family": "Feron",
+				"given": "Jean-Guillaume"
+			},
+			{
+				"family": "Benchimol",
+				"given": "Gabriel"
+			},
+			{
+				"family": "Laé",
+				"given": "Marick"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/G3ZIP6XJ",
+		"type": "article-journal",
+		"title": "Chemosensitivity, tumor infiltrating lymphocytes (TILs), and survival of postpartum PABC patients treated by neoadjuvant chemotherapy",
+		"container-title": "The Breast",
+		"page": "61-67",
+		"volume": "42",
+		"source": "www.thebreastonline.com",
+		"abstract": "<h2>Abstract</h2><h3>Background</h3><p>Pregnancy-associated breast cancer (PABC) refers to breast cancers (BC) diagnosed during pregnancy or shortly after birth. Although the inflammatory environment of post-partum PABC cases (designed as PP-PABC) may be deleterious, so far PP-PABC have scarcely been distinguished from breast cancers diagnosed during pregnancy. Furthermore, whether PP-PABC cases have an enhanced immune infiltration remains unknown. We investigated chemosensitivity, immune infiltration and survival of PP-PABC patients treated by neoadjuvant chemotherapy (NAC) compared to non-PABC matched BC patients.</p><h3>Materials and methods</h3><p>We identified PP-PABC cases among a cohort of 1199 invasive BC treated with NAC between 2002 and 2012. Each PP-PABC case was matched with 3 non-PABC controls, according to age and pathological breast cancer subtype. Microbiopsy specimens and paired surgical samples were evaluated for stromal lymphocyte infiltration. Association of clinical and pathological factors with pathological complete response (pCR) and disease-free survival (DFS) was assessed by univariate and multivariate analyses.</p><h3>Results</h3><p>Our final population study was composed of 116 patients (29 PP-PABC and 87 non-PABC). Median follow-up was of 49.0 and 29.3 months, respectively. After NAC, pCR rates (<i>p</i> = 0.64), post-NAC immune infiltration (stromal TILs: <i>p</i> = 0.67; intratumoral TILs: <i>p</i> = 0.14), and DFS rates (<i>p</i> = 0.17) were comparable between PP-PABC and non-PABC patients in global population. Similar results were found after stratification by pathological subtype.</p><h3>Conclusion</h3><p>We observed similar patterns between postpartum PABC and control tumors in terms of chemosensitivity, immune infiltration, and prognostic. Our results enhance the idea that PP-PABC should receive the same standard of care treatment as other patients, including neoadjuvant chemotherapy.</p>",
+		"URL": "https://www.thebreastonline.com/article/S0960-9776(18)30257-1/abstract",
+		"DOI": "10.1016/j.breast.2018.08.103",
+		"ISSN": "0960-9776, 1532-3080",
+		"note": "PMID: 30179779",
+		"journalAbbreviation": "The Breast",
+		"language": "English",
+		"author": [
+			{
+				"family": "Labrosse",
+				"given": "Julie"
+			},
+			{
+				"family": "Abdennebi",
+				"given": "Inès"
+			},
+			{
+				"family": "Thibault",
+				"given": "Lucie"
+			},
+			{
+				"family": "Laas",
+				"given": "Enora"
+			},
+			{
+				"family": "Merckelbagh",
+				"given": "Hilde"
+			},
+			{
+				"family": "Morel",
+				"given": "Charlotte"
+			},
+			{
+				"family": "Lam",
+				"given": "Thanh"
+			},
+			{
+				"family": "Lae",
+				"given": "Marick"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			},
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/FQ5J24D6",
+		"type": "article-journal",
+		"title": "New insight for pharmacogenomics studies from the transcriptional analysis of two large-scale cancer cell line panels",
+		"container-title": "Scientific Reports",
+		"page": "15126",
+		"volume": "7",
+		"issue": "1",
+		"source": "PubMed",
+		"abstract": "One of the most challenging problems in the development of new anticancer drugs is the very high attrition rate. The so-called \"drug repositioning process\" propose to find new therapeutic indications to already approved drugs. For this, new analytic methods are required to optimize the information present in large-scale pharmacogenomics datasets. We analyzed data from the Genomics of Drug Sensitivity in Cancer and Cancer Cell Line Encyclopedia studies. We focused on common cell lines (n = 471), considering the molecular information, and the drug sensitivity for common drugs screened (n = 15). We propose a novel classification based on transcriptomic profiles of cell lines, according to a biological network-driven gene selection process. Our robust molecular classification displays greater homogeneity of drug sensitivity than cancer cell line grouped based on tissue of origin. We then identified significant associations between cell line cluster and drug response robustly found between both datasets. We further demonstrate the relevance of our method using two additional external datasets and distinct sensitivity metrics. Some associations were still found robust, despite cell lines and drug responses' variations. This study defines a robust molecular classification of cancer cell lines that could be used to find new therapeutic indications to known compounds.",
+		"DOI": "10.1038/s41598-017-14770-6",
+		"ISSN": "2045-2322",
+		"note": "PMID: 29123141\nPMCID: PMC5680301",
+		"journalAbbreviation": "Sci Rep",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Sadacca",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Laurent",
+				"given": "Cécile"
+			},
+			{
+				"family": "Gestraud",
+				"given": "Pierre"
+			},
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "Hélène"
+			},
+			{
+				"family": "Pinheiro",
+				"given": "Alice"
+			},
+			{
+				"family": "Abecassis",
+				"given": "Judith"
+			},
+			{
+				"family": "Neuvial",
+				"given": "Pierre"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/BB2NDY2Y",
+		"type": "article-journal",
+		"title": "Interaction between molecular subtypes, stromal immune infiltration before and after treatment in breast cancer patients treated with neoadjuvant chemotherapy",
+		"container-title": "Clinical Cancer Research",
+		"page": "clincanres.3017.2018",
+		"source": "clincancerres.aacrjournals.org",
+		"abstract": "Purpose: High levels of tumor-infiltrating lymphocytes (TILs) before neoadjuvant chemotherapy (NAC) are associated with higher pathological complete response (pCR) rates, and better survival in TNBC and HER2-positive breast cancers (BCs). We investigated the value of TIL levels by evaluating lymphocyte infiltration before and after NAC. Patients and methods: We assessed stromal TIL levels in 716 pre- and post-treatment matched paired specimens, according to the guidelines of the international TIL working group. Results: Pre-NAC TIL levels were higher in tumors for which pCR was achieved than in cases with residual disease (33.9% versus 20.3%, p=0.001). This was observed in luminal tumors and TNBCs, but not in HER2-positive BCs, (pInteraction =0.001). The association between pre-NAC TIL levels and pCR was non-linear in TNBCs (p=0.005). Mean TIL levels decreased after chemotherapy completion (pre-NAC TILs: 24.1% versus post-NAC TILs: 13.0%, p<0.001). This decrease was strongly associated with high pCR rates, and the variation of TIL levels was strongly inversely correlated with pre-NAC TIL levels (r=-0.80, p<0.001). Pre-NAC TILs and disease-free survival (DFS) were associated in a non-linear manner (p<0.001). High post-NAC TIL levels were associated with aggressive tumor characteristics and with impaired DFS in HER2-positive BCs (HR=1.04, CI [1.02-1.06], p=0.001), but not in luminal tumors or TNBCs (pInteraction =0.04). Conclusion: The associations of pre and post-NAC TIL levels with response to treatment and DFS differ between BC subtypes. The characterization of immune subpopulations may improve our understanding of the complex interactions between pre- or post-NAC setting, BC subtype, response to treatment and prognosis.",
+		"URL": "https://clincancerres.aacrjournals.org/content/early/2019/09/12/1078-0432.CCR-18-3017",
+		"DOI": "10.1158/1078-0432.CCR-18-3017",
+		"ISSN": "1078-0432, 1557-3265",
+		"note": "PMID: 31515462",
+		"journalAbbreviation": "Clin Cancer Res",
+		"language": "en",
+		"author": [
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Bonsang-Kitzis",
+				"given": "Hélène"
+			},
+			{
+				"family": "Croze",
+				"given": "Diane De"
+			},
+			{
+				"family": "Laas",
+				"given": "Enora"
+			},
+			{
+				"family": "Darrigues",
+				"given": "Lauren"
+			},
+			{
+				"family": "Topciu",
+				"given": "Lucian"
+			},
+			{
+				"family": "Menet",
+				"given": "Emmanuelle"
+			},
+			{
+				"family": "Vincent-Salomon",
+				"given": "Anne"
+			},
+			{
+				"family": "Lerebours",
+				"given": "Florence"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean-Yves"
+			},
+			{
+				"family": "Brain",
+				"given": "Etienne"
+			},
+			{
+				"family": "Feron",
+				"given": "Jean-Guillaume"
+			},
+			{
+				"family": "Benchimol",
+				"given": "Gabriel"
+			},
+			{
+				"family": "Lam",
+				"given": "Giang-Thanh"
+			},
+			{
+				"family": "Lae",
+				"given": "Marick"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/QNNJ56NG",
+		"type": "article-journal",
+		"title": "Celecoxib With Neoadjuvant Chemotherapy for Breast Cancer Might Worsen Outcomes Differentially by COX-2 Expression and ER Status: Exploratory Analysis of the REMAGUS02 Trial",
+		"container-title": "Journal of Clinical Oncology",
+		"page": "624-635",
+		"volume": "37",
+		"issue": "8",
+		"source": "ascopubs-org.gate2.inist.fr (Atypon)",
+		"abstract": "PURPOSEThe overexpression of cyclooxygenase 2 (COX-2) gene, also known as prostaglandin-endoperoxide synthase 2 (PTGS2), occurs in breast cancer, but whether it affects response to anticox drugs remains unclear. We investigated the relationships between PTGS2 expression, celecoxib use during neoadjuvant chemotherapy (NAC), and both event-free survival (EFS) and overall survival (OS).MATERIALS AND METHODSWe analyzed a cohort of 156 patients with human epidermal growth factor receptor 2–negative breast cancer from the REMAGUS02 (ISRCTN Registry No. 10059974) trial with pretreatment PTGS2 expression data. Patients were treated by sequential NAC (epirubicin plus cyclophosphamide followed by docetaxel with or without celecoxib). Experimental validation was performed on breast cancer cell lines. The Cancer and Leukemia Group B (CALGB) 30801 (ClinicalTrials.gov identifier: NCT01041781) trial that tested chemotherapy with or without celecoxib in patients with lung cancer served as an independent validation cohort.RESULTSAfter 94.5 months of follow-up, EFS was significantly lower in the celecoxib group (hazard ratio [HR], 1.7; 95% CI, 1 to 2.88; P = .046). A significant interaction between PTGS2 expression and celecoxib use was detected (Pinteraction = .01). In the PTGS2-low group (n = 100), EFS was lower in the celecoxib arm (HR, 3.01; 95% CI, 1.45 to 6.24; P = .002) than in the standard treatment arm. Celecoxib use was an independent predictor of poor EFS, distant relapse–free survival, and OS.Celecoxib in addition to docetaxel enhanced cell viability in PTGS2-low cell lines but not in PTGS2-high cell lines. In CALGB 30801, a trend toward poorer progression-free survival was observed in the patients with low urinary metabolite of prostaglandin E2 who received celecoxib (HR = 1.57; 95% CI, 0.87 to 2.84; P = .13).CONCLUSIONCelecoxib use during chemotherapy adversely affected survival in patients with breast cancer, and the effect was more marked in PTGS2-low and/or estrogen receptor–negative tumors. COX-2 inhibitors should preferably be avoided during docetaxel use in patients with breast cancer who are undergoing NAC.",
+		"URL": "http://ascopubs.org/doi/full/10.1200/JCO.18.00636",
+		"DOI": "10.1200/JCO.18.00636",
+		"ISSN": "0732-183X",
+		"title-short": "Celecoxib With Neoadjuvant Chemotherapy for Breast Cancer Might Worsen Outcomes Differentially by COX-2 Expression and ER Status",
+		"journalAbbreviation": "JCO",
+		"author": [
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Tury",
+				"given": "Sandrine"
+			},
+			{
+				"family": "Wang",
+				"given": "Xiaofei"
+			},
+			{
+				"family": "Gao",
+				"given": "Junheng"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean-Yves"
+			},
+			{
+				"family": "Giacchetti",
+				"given": "Sylvie"
+			},
+			{
+				"family": "Brain",
+				"given": "Etienne"
+			},
+			{
+				"family": "Pistilli",
+				"given": "Barbara"
+			},
+			{
+				"family": "Marty",
+				"given": "Michel"
+			},
+			{
+				"family": "Espié",
+				"given": "Marc"
+			},
+			{
+				"family": "Benchimol",
+				"given": "Gabriel"
+			},
+			{
+				"family": "Laas",
+				"given": "Enora"
+			},
+			{
+				"family": "Laé",
+				"given": "Marick"
+			},
+			{
+				"family": "Asselain",
+				"given": "Bernard"
+			},
+			{
+				"family": "Aouchiche",
+				"given": "Brice"
+			},
+			{
+				"family": "Edelman",
+				"given": "Martin"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					31
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/VTABFC6E",
+		"type": "article-journal",
+		"title": "A multivariate Th17 metagene for prognostic stratification in T cell non-inflamed triple negative breast cancer",
+		"container-title": "Oncoimmunology",
+		"volume": "8",
+		"issue": "9",
+		"source": "PubMed Central",
+		"abstract": "A diversity of T helper (Th) subsets (Th1, Th2, Th17) has been identified in the human tumor microenvironment. In breast cancer, the role of Th subsets remains controversial, and a systematic study integrating Th subset diversity, T cell inflammation, breast cancer molecular subtypes, and patient prognosis, is lacking. In primary untreated breast cancer samples, we analyzed 19 Th cytokines at the protein level. Eight were T cell-specific, and subsequently measured in 106 prospectively-collected untreated samples. The dominant Th cytokines across all breast cancer samples were IFN-γ and IL-2. Th2 cytokines (IL-4, IL-5, IL-13) were expressed at low levels and not associated with any breast cancer subtype. Th17 cytokines (IL-17A and IL-17F) were up-regulated in triple negative breast cancer (TNBC), specifically in T cell non-inflamed tumors. In order to get insight into prognosis, we exploited the METABRIC transcriptomic dataset. We derived Th1, Th2, and Th17 metagenes based on manually curated Th signatures, and found that a high Th17 metagene was of good prognosis in T cell non-inflamed TNBC. Multivariate Cox modeling selected the Nottingham Prognostic Index (NPI), Th2 and Th17 metagenes as additive predictors of breast cancer-specific survival, which defined novel and highly distinct prognostic groups within TNBC. Our results reveal that Th17 is a novel prognostic composite biomarker in T cell non-inflamed TNBC., Integrating immune cell and tumor molecular diversity is an efficient strategy for prognostic stratification of cancer patients.",
+		"URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6685521/",
+		"DOI": "10.1080/2162402X.2019.1624130",
+		"ISSN": "2162-4011",
+		"note": "PMID: 31428522\nPMCID: PMC6685521",
+		"journalAbbreviation": "Oncoimmunology",
+		"author": [
+			{
+				"family": "Faucheux",
+				"given": "L."
+			},
+			{
+				"family": "Grandclaudon",
+				"given": "M."
+			},
+			{
+				"family": "Perrot-Dockès",
+				"given": "M."
+			},
+			{
+				"family": "Sirven",
+				"given": "P."
+			},
+			{
+				"family": "Berger",
+				"given": "F."
+			},
+			{
+				"family": "Hamy",
+				"given": "A.S."
+			},
+			{
+				"family": "Fourchotte",
+				"given": "V."
+			},
+			{
+				"family": "Vincent-Salomon",
+				"given": "A."
+			},
+			{
+				"family": "Mechta-Grigoriou",
+				"given": "F."
+			},
+			{
+				"family": "Reyal",
+				"given": "F."
+			},
+			{
+				"family": "Scholer-Dahirel",
+				"given": "A."
+			},
+			{
+				"family": "Guillot-Delost",
+				"given": "M."
+			},
+			{
+				"family": "Soumelis",
+				"given": "V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/7AQF8P4U",
+		"type": "article-journal",
+		"title": "Capecitabine Efficacy Is Correlated with TYMP and RB1 Expression in PDX Established from Triple-Negative Breast Cancers",
+		"container-title": "Clinical Cancer Research: An Official Journal of the American Association for Cancer Research",
+		"page": "2605-2615",
+		"volume": "24",
+		"issue": "11",
+		"source": "PubMed",
+		"abstract": "Purpose: Triple-negative breast cancer (TNBC) patients with residual disease after neoadjuvant chemotherapy have a poor outcome. We developed patient-derived xenografts (PDX) from residual tumors to identify efficient chemotherapies and predictive biomarkers in a context of resistance to anthracyclines- and taxanes-based treatments.Experimental Design: PDX were established from residual tumors of primary breast cancer patients treated in neoadjuvant setting. TNBC PDX were treated by anthracyclines, taxanes, platins, and capecitabine. Predictive biomarkers were identified by transcriptomic and immunohistologic analysis. Downregulation of RB1 was performed by siRNA in a cell line established from a PDX.Results: Residual TNBC PDX were characterized by a high tumor take, a short latency, and a poor prognosis of the corresponding patients. With the exception of BRCA1/2-mutated models, residual PDX were resistant to anthracyclines, taxanes, and platins. Capecitabine, the oral prodrug of 5-FU, was highly efficient in 60% of PDX, with two models showing complete responses. Prior treatment of a responder PDX with 5-FU increased expression of thymidylate synthase and decreased efficacy of capecitabine. Transcriptomic and IHC analyses of 32 TNBC PDX, including both residual tumors and treatment-naïve derived tumors, identified RB1 and TYMP proteins as predictive biomarkers for capecitabine response. Finally, RB1 knockdown in a cell line established from a capecitabine-responder PDX decreased sensitivity to 5-FU treatment.Conclusions: We identified capecitabine as efficient chemotherapy in TNBC PDX models established from residual disease and resistant to anthracyclines, taxanes, and platins. RB1 positivity and high expression of TYMP were significantly associated with capecitabine response. Clin Cancer Res; 24(11); 2605-15. ©2018 AACR.",
+		"DOI": "10.1158/1078-0432.CCR-17-3490",
+		"ISSN": "1078-0432",
+		"note": "PMID: 29463559",
+		"journalAbbreviation": "Clin. Cancer Res.",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Marangoni",
+				"given": "Elisabetta"
+			},
+			{
+				"family": "Laurent",
+				"given": "Cécile"
+			},
+			{
+				"family": "Coussy",
+				"given": "Florence"
+			},
+			{
+				"family": "El-Botty",
+				"given": "Rania"
+			},
+			{
+				"family": "Château-Joubert",
+				"given": "Sophie"
+			},
+			{
+				"family": "Servely",
+				"given": "Jean-Luc"
+			},
+			{
+				"family": "Plater",
+				"given": "Ludmilla",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Assayag",
+				"given": "Franck"
+			},
+			{
+				"family": "Dahmani",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Montaudon",
+				"given": "Elodie"
+			},
+			{
+				"family": "Nemati",
+				"given": "Fariba"
+			},
+			{
+				"family": "Fleury",
+				"given": "Justine"
+			},
+			{
+				"family": "Vacher",
+				"given": "Sophie"
+			},
+			{
+				"family": "Gentien",
+				"given": "David"
+			},
+			{
+				"family": "Rapinat",
+				"given": "Audrey"
+			},
+			{
+				"family": "Foidart",
+				"given": "Pierre"
+			},
+			{
+				"family": "Sounni",
+				"given": "Nor Eddine"
+			},
+			{
+				"family": "Noel",
+				"given": "Agnès"
+			},
+			{
+				"family": "Vincent-Salomon",
+				"given": "Anne"
+			},
+			{
+				"family": "Lae",
+				"given": "Marick"
+			},
+			{
+				"family": "Decaudin",
+				"given": "Didier"
+			},
+			{
+				"family": "Roman-Roman",
+				"given": "Sergio"
+			},
+			{
+				"family": "Bièche",
+				"given": "Ivan"
+			},
+			{
+				"family": "Piccart",
+				"given": "Martine"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			],
+			"season": "01"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2386072/items/IRXQNQYJ",
+		"type": "article-journal",
+		"title": "Impact of time to local recurrence on the occurrence of metastasis in breast cancer patients treated with neoadjuvant chemotherapy: A random forest survival approach",
+		"container-title": "PLoS ONE",
+		"volume": "14",
+		"issue": "1",
+		"source": "PubMed Central",
+		"abstract": "Background\nWe studied the relationship between time to ipsilateral breast tumor recurrence (IBTR) and distant metastasis-free survival (DMFS) in patients with breast cancer treated by neoadjuvant chemotherapy (NAC).\n\nMethods\nBetween 2002 and 2012, 1199 patients with primary breast cancer were treated with NAC. Clinical, radiological and pathological data were retrieved from medical records. Multivariate analysis was performed with the random survival forest (RSF) method, to evaluate the relationship between time to local recurrence and DMFS.\n\nResults\nTime to IBTR, local recurrence and molecular subtype were the factors most strongly associated with DMFS. In the total population, DMFS increased linearly with recurrence time, up to 50 months. For recurrences after 50 months, DMFS was similar for all times to recurrence. Considering molecular subtypes separately, the threshold was similar for the TNBC subtype (50 months), but appeared to occur later for the luminal and HER2-positive subtypes (75 months).\n\nConclusion\nA threshold of 50 months seems to differentiate between early and late recurrences and could be used to guide the medical management of local breast tumour recurrences.",
+		"URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344020/",
+		"DOI": "10.1371/journal.pone.0208807",
+		"ISSN": "1932-6203",
+		"note": "PMID: 30673703\nPMCID: PMC6344020",
+		"title-short": "Impact of time to local recurrence on the occurrence of metastasis in breast cancer patients treated with neoadjuvant chemotherapy",
+		"journalAbbreviation": "PLoS One",
+		"author": [
+			{
+				"family": "Laas",
+				"given": "Enora"
+			},
+			{
+				"family": "Hamy",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Michel",
+				"given": "Anne-Sophie"
+			},
+			{
+				"family": "Panchbhaya",
+				"given": "Nabilah"
+			},
+			{
+				"family": "Faron",
+				"given": "Matthieu"
+			},
+			{
+				"family": "Lam",
+				"given": "Thanh"
+			},
+			{
+				"family": "Carrez",
+				"given": "Sophie"
+			},
+			{
+				"family": "Pierga",
+				"given": "Jean-Yves"
+			},
+			{
+				"family": "Rouzier",
+				"given": "Roman"
+			},
+			{
+				"family": "Lerebours",
+				"given": "Florence"
+			},
+			{
+				"family": "Feron",
+				"given": "Jean-Guillaume"
+			},
+			{
+				"family": "Reyal",
+				"given": "Fabien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					9
+				]
+			]
+		}
+	}
+]
