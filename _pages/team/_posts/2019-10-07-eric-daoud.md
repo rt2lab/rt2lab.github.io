@@ -1,16 +1,16 @@
 ---
 layout: member
-category: staff
-title: 'Anne Sophie Hamy Petit'
-image: 'anne-sophie.jpeg'
-role: Lab co-director
-permalink: 'team/anne-sophie-hamy-petit'
+category: student
+title: Eric Daoud
+image: eric.png
+role: PhD Student
+permalink: 'team/eric-daoud'
 social:
-    twitter: https://twitter.com/ashamypetit
-    linkedin: https://linkedin.com/in/anne-sophie-hamy-petit-7a65b339
-    google-scholar: https://scholar.google.com/citations?user=V0ZM_KAAAAAJ&hl=en
-    github:
-    website:
+    twitter: https://twitter.com/ericdaoud
+    linkedin: https://linkedin.com/in/ericdaoud
+    google-scholar:
+    github: https://github.com/ericdaat
+    website: https://edaoud.com
 education:
  - Education 1
  - Education 2

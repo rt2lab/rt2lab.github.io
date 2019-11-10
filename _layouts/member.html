@@ -24,9 +24,22 @@ layout: default
 
         <!-- Social -->
         <ul class="list-inline list-unstyled">
-            <li><a href="{{page.social.twitter}}"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="{{page.social.linkedin}}"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="{{page.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+            <!-- Twitter -->
+            {% if page.social.twitter %}
+                <li><a href="{{page.social.twitter}}"><i class="fab fa-twitter"></i></a></li>
+            {% endif %}
+            <!-- Linkedin -->
+            {% if page.social.linkedin %}
+                <li><a href="{{page.social.linkedin}}"><i class="fab fa-linkedin"></i></a></li>
+            {% endif %}
+            <!-- Google Scholar -->
+            {% if page.social.google-scholar %}
+                <li><a href="{{page.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+            {% endif %}
+            <!-- Github -->
+            {% if page.social.github %}
+                <li><a href="{{page.social.github}}"><i class="fab fa-github"></i></a></li>
+            {% endif %}
         </ul>
     </div>
 

@@ -9,6 +9,8 @@ social:
     twitter: https://twitter.com/fabienreyal
     linkedin: https://linkedin.com/in/fabienreyal
     google-scholar: https://scholar.google.com/citations?user=VRZhLFsAAAAJ&hl=en&oi=ao
+    github:
+    website:
 education:
  - Education 1
  - Education 2
