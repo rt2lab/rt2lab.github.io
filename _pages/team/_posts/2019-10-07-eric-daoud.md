@@ -11,6 +11,7 @@ social:
     google-scholar:
     github: https://github.com/ericdaat
     website: https://edaoud.com
+    orcid:
 education:
  - Education 1
  - Education 2

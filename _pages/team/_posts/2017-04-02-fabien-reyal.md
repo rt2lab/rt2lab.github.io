@@ -11,6 +11,7 @@ social:
     google-scholar: https://scholar.google.com/citations?user=VRZhLFsAAAAJ&hl=en&oi=ao
     github:
     website:
+    orcid:
 education:
  - Education 1
  - Education 2
