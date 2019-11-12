@@ -13,7 +13,9 @@ social:
     orcid: https://orcid.org/0000-0001-5751-8386
     research-gate: https://www.researchgate.net/profile/Marcel_Da_Camara_Ribeiro-Dantas
 education:
- - Universidade Federal do Rio Grande do Norte. Big Data & Bioinformatics
+ - "Federal University of RN (2018): Bioinformatics (MSc)"
+ - "Federal University of RN (2017): Big Data (Graduate degree)"
+ - "Federal University of RN (2016): Computer and Automation Engineering (Eng.)"
 
 ---
 
