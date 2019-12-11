@@ -8,6 +8,33 @@ permalink: /
 
 ### About the Lab
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+The “Residual Tumor and Response to Treatment Laboratory” has four main goals.
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+**Identification of clinical and pathological factors correlated with the long-term prognosis of TNBC and HER2 positive breast cancer patients treated by neoadjuvant chemotherapy.**
+
+We have built a retrospective clinical, pathological and radiological database
+of breast cancer patients treated by neoadjuvant chemotherapy at Institut
+Curie since 2002. In triple-negative breast carcinoma (TNBC) we have
+highlighted a strong association between the lymph node involvement after
+neoadjuvant chemotherapy (NAC) and a poor prognosis outcome. We concluded
+that clinical trials should be implemented for high-risk patients after NAC
+(pN+, Elston Ellis Grade 3 and non menopausal status) to validate new
+therapeutic solutions.
+
+**Identification of robust biological-network driven gene-expression classification of TNBC and HER2 positive breast cancer to define new therapeutic interventions.**
+
+We identified a robust six metagene classification across 1125 TNBC
+gene-expression profiles. An immune metagene is highly correlated to the
+prognosis of these patients. These findings open up interesting opportunities
+for the development of new therapeutic interventions in TNBC.
+
+**Identification of dynamic markers of resistance in TNBC and HER2 positive breast cancer patients treated by neoadjuvant chemotherapy.**
+
+Using RNAsequencing, Whole Exome Sequencing and RPPA we are studying matched
+pre-treatment primary tumor biopsy and residual tumor after neoadjuvant
+treatment to identify modifications associated to resistance to
+systemic treatment.
+
+**High-througput screening of TNBC and HER2 positive breast cancer cell lines.**
+
+In order to identify efficient drugs to treat cancer patients, large screening programs have been launched with different setting of drugs and cancer cell lines (CCLE and CGP projects). We are developping 2D and 3D (magnetic levitation) breast cancer cell lines drug screening program with FDA approved drugs libraries.
