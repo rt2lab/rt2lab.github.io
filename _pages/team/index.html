@@ -33,6 +33,31 @@ permalink: /team/
 </div>
 {% endfor %}
 
+<!-- Researchers -->
+
+<h2><a id="student"></a>Researchers</h2>
+{% assign members = site.posts | where: 'category', 'postdoc' | sort: 'date' %}
+{% for member in members %}
+<div class="card team-member-card">
+    <div class="row mt-3">
+        <div class="col-md-2">
+            <a href={{member.url}}>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                    class="card-img img-responsive img-thumbnail"
+                    style="filter: grayscale(100%); max-width: 100px;"/>
+            </a>
+        </div>
+
+        <div class="col-md-10">
+            <div class="card-body">
+            <h4 class="card-title">{{ member.title }}</h4>
+            <p class="card-text">{{ member.role }}</p>
+            </div>
+        </div>
+    </div>
+</div
+{% endfor %}
+
 <!-- Students -->
 
 <h2><a id="student"></a>Students</h2>
