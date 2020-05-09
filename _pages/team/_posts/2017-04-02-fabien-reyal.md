@@ -13,8 +13,6 @@ social:
     website:
     orcid:
 education:
- - Education 1
- - Education 2
 ---
 
 Pr. Fabien Reyal was a student of the Xavier Bichat (Paris VII) faculty of medicine and was appointed Paris hospitals resident in 1995. After completing his internship in obstetrics and gynecology, he was appointed assistant chief resident at the Paris VII Xavier Bichat hospital in 2004.

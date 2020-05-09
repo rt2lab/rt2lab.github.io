@@ -13,8 +13,15 @@ social:
     website:
     orcid:
 education:
- - Education 1
- - Education 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit ut aliquam purus sit amet. Integer vitae justo eget magna fermentum iaculis eu. Consectetur libero id faucibus nisl. Nisi porta lorem mollis aliquam ut porttitor. Sit amet nulla facilisi morbi. At varius vel pharetra vel. Odio eu feugiat pretium nibh. Faucibus vitae aliquet nec ullamcorper sit amet risus. Sodales ut etiam sit amet. Neque vitae tempus quam pellentesque nec.
+Medical Gynecologist Oncologist, MD, PhD.
+
+Highly implicated in clinical research projects.
+
+Domains of interest : Breast cancer, neoadjuvant treatment, drug repurposing,
+biostatistics, bioinformatics, Oncofertility, young women, health data, Immunity.
+
+Principal Investigator of the FEERIC study, a french nationwide study aiming
+at evaluating fertility and contraception in breast cancer survivors
+compared to controls.

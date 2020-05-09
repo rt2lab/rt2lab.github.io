@@ -25,14 +25,16 @@ layout: default
 </div>
 
 <!-- Education -->
+{% if page.education %}
 <div>
     <h3>Education</h3>
     <ul>
         {% for education in page.education %}
-        <li>{{education}}</li>
+        <li>{{ education }}</li>
         {% endfor %}
     </ul>
 </div>
+{% endif %}
 
 <!-- Bio -->
 <div>
