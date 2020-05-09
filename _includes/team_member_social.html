@@ -1,0 +1,30 @@
+<ul class="list-inline list-unstyled">
+    <!-- Twitter -->
+    {% if member.social.twitter %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.twitter}}"><i class="fab fa-twitter"></i></a></li>
+    {% endif %}
+    <!-- Linkedin -->
+    {% if member.social.linkedin %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.linkedin}}"><i class="fab fa-linkedin"></i></a></li>
+    {% endif %}
+    <!-- Github -->
+    {% if member.social.github %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.github}}"><i class="fab fa-github"></i></a></li>
+    {% endif %}
+    <!-- Personal Website -->
+    {% if member.social.website %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.website}}"><i class="fas fa-globe"></i></a></li>
+    {% endif %}
+    <!-- Google Scholar -->
+    {% if member.social.google-scholar %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+    {% endif %}
+    <!-- Orcid -->
+    {% if member.social.orcid %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.orcid}}"><i class="fab fa-orcid"></i></a></li>
+    {% endif %}
+    <!-- Research Gate -->
+    {% if member.social.research-gate %}
+    <li class="list-inline-item"><a target="blank" href="{{member.social.research-gate}}"><i class="fab fa-researchgate"></i></a></li>
+    {% endif %}
+</ul>

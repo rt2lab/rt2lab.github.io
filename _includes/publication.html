@@ -1,0 +1,24 @@
+<li class="media mb-1">
+    <!-- authors -->
+    {% assign authors = "" | split:"/" %}
+    {% for author in publi.author %}
+        {% assign authors = authors | push: author.family %}
+    {% endfor %}
+
+    <div class="media-body">
+
+        <p>
+            {{ authors | array_to_sentence_string }},
+
+            "{{ publi.title }}", {{ publi.container-title }}
+
+            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }})
+
+            <!-- DOI -->
+            {% if publi.DOI %}
+                <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
+            {% endif %}
+        </p>
+
+    </div>
+</li>

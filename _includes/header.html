@@ -1,23 +1,29 @@
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
+<header class="site-header" role="banner">
 
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">RT2 Lab @ Institut Curie</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/news">News</a></li> -->
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li> -->
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
+	<nav class="navbar navbar-expand-sm navbar-light px-0">
+
+		<!-- Navbar brand -->
+		<a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+
+		<!-- Navbar toggler button -->
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+			aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<!-- Navbar links -->
+		<div class="collapse navbar-collapse" id="navbarToggler">
+			<ul class="navbar-nav mr-auto">
+				<li>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/team">Team</a>
+				</li>
+
+				<li>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a>
+				</li>
+			</ul>
+		</div>
+
+	</nav>
+
+</header>

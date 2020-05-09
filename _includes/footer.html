@@ -1,14 +1,15 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-sm-4">
-				<img class="img-fluid" src="../images/logo/curie-psl.png"
-				     style="max-width: 150px;">
+<div id="footer" class="site-footer mt-5">
+	<div class="mt-3">
+		<div class="row d-flex">
+			<div class="col-sm-6">
+				<p class="font-weight-bold">{{ site.title }}</p>
+				<img class="img-fluid" src="/assets/images/curie.png" style="max-height: 60px;">
+				<img class="img-fluid" src="/assets/images/universite-paris.png" style="max-height: 60px;">
+				<!-- <img class="img-fluid" src="/assets/images/inserm.png" style="max-height: 60px;"> -->
 			</div>
 
-			<div class="col-sm-4">
-				<p>Links</p>
+			<div class="col-sm-3">
+				<p class="font-weight-bold">Links</p>
 				<ul class="list-unstyled">
 					<li><a href="https://institut-curie.org/">Institut Curie</a></li>
 					<li><a href="https://github.com/rt2lab">Github</a></li>
@@ -16,8 +17,8 @@
 				</ul>
 			</div>
 
-			<div class="col-sm-4">
-				<p>Contact</p>
+			<div class="col-sm-3">
+				<p class="font-weight-bold">Contact</p>
 
 				Institut Curie<br>
 				26 rue d'Ulm<br>
@@ -26,12 +27,8 @@
 			</div>
 		</div>
 
-		<div class="row mt-3">
-			<p class="text-center">Copyright RT2 Lab, 2019</p>
+		<div class="footer-copyright text-center py-3">
+			© 2020 {{ site.author }}
 		</div>
 	</div>
-  </div>
 </div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>

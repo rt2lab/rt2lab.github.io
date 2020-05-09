@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+$font-family-sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+  sans-serif !default;
+$font-family-serif: Georgia, "Times New Roman", Times, serif !default;
+$font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-base: $font-family-sans-serif !default;
+$font-size-base: 16;
+$code-color: #247ba0;
+$theme-colors: (
+  // https://coolors.co/app/247ba0-70c1b3-b2dbbf-f3ffbd-ff1654
+  "primary": #ff691d,
+  "danger": #ff1654
+);
+
+@import "bootstrap/bootstrap";
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+p {
+  text-align: justify;
+}
+
+.site-footer {
+  border-top: 2px solid $light;
+}
+
+.site-header {
+  border-bottom: 2px solid $light;
+}
+
+.img-cover {
+  max-height: 250px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
