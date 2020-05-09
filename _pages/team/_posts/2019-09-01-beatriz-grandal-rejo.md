@@ -4,7 +4,7 @@ category: student
 title: Beatriz Grandal Rejo
 image: beatriz.jpg
 role: PhD Student
-permalink: 'team/eric-daoud'
+permalink: 'team/beatriz-grandal-rejo'
 social:
     twitter: https://twitter.com/GrandalBeatriz
     linkedin:
