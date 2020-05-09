@@ -13,8 +13,9 @@ social:
     website:
     orcid:
 education:
- - Education 1
- - Education 2
+    - PhD in Computer Science & Statistics - Université Paris VI (2019)
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit ut aliquam purus sit amet. Integer vitae justo eget magna fermentum iaculis eu. Consectetur libero id faucibus nisl. Nisi porta lorem mollis aliquam ut porttitor. Sit amet nulla facilisi morbi. At varius vel pharetra vel. Odio eu feugiat pretium nibh. Faucibus vitae aliquet nec ullamcorper sit amet risus. Sodales ut etiam sit amet. Neque vitae tempus quam pellentesque nec.
+I work as a postdoctoral researcher and data scientist at the RT2Lab, Institut Curie. My principal focus is the study of possible effects of comedications on response to chemotherapy treatment in breast cancer, with a particular focus on the analysis of large real life cohorts, where by definition randomization between treatment groups is not achieved.
+
+I got my PhD in 2019 at Institut Curie, working on a novel method to infer large networks from observational data, with application to gene network reconstruction, protein structure and cancer cohorts.
