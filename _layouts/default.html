@@ -5,17 +5,20 @@
 
   <body>
 
-    {% include header.html %}
-
     <div class="container-fluid">
-      <div class="col-sm-12">
-        <div class="row">
-          {{ content }}
-        </div>
+      <div>
+        {%- include header.html -%}
+      </div>
+
+      <div class="mt-3">
+        {{ content }}
+      </div>
+
+      <div>
+        {% include footer.html %}
       </div>
     </div>
 
-    {% include footer.html %}
   </body>
 
 </html>
