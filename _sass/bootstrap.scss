@@ -6,12 +6,12 @@ $font-family-serif: Georgia, "Times New Roman", Times, serif !default;
 $font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base: $font-family-sans-serif !default;
 $font-size-base: 16;
+$code-color: #247ba0;
 $theme-colors: (
   // https://coolors.co/app/247ba0-70c1b3-b2dbbf-f3ffbd-ff1654
-    "primary": #2ec4b6,
+  "primary": #ff691d,
   "danger": #ff1654
 );
-$code-color: #247ba0;
 
 @import "bootstrap/bootstrap";
 
