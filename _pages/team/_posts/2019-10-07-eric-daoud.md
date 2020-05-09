@@ -13,8 +13,8 @@ social:
     website: https://edaoud.com
     orcid:
 education:
- - Education 1
- - Education 2
+ - MSc in Software Engineering, ECAM Lyon (2015)
+ - MS in Cloud Computing and Data Science, CentraleSupélec (2016)
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit ut aliquam purus sit amet. Integer vitae justo eget magna fermentum iaculis eu. Consectetur libero id faucibus nisl. Nisi porta lorem mollis aliquam ut porttitor. Sit amet nulla facilisi morbi. At varius vel pharetra vel. Odio eu feugiat pretium nibh. Faucibus vitae aliquet nec ullamcorper sit amet risus. Sodales ut etiam sit amet. Neque vitae tempus quam pellentesque nec.
+I am currently a PhD student in the RT2Lab, Inserm U932 team. I am working with the SNDS database to study the geographic and socio-demographic disparities in oncology care pathways. Prior to this, I worked as a Data Scientist for several french startups on Natural Language Processing and Recommender Systems applications.
