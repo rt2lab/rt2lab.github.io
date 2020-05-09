@@ -2,20 +2,18 @@
 layout: default
 ---
 
-
 <nav aria-label="breadcrumb">
-    <ol class="breadcrumb bg-white p-0">
+    <ol class="breadcrumb bg-white px-0">
         <li class="breadcrumb-item"><a href="/team">Team</a></li>
         <li class="breadcrumb-item text-capitalize"><a href="/team#{{ page.category }}">{{ page.category }}</a></li>
         <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
     </ol>
 </nav>
 
-
 <div class="text-center mt-5">
     <!-- Avatar -->
     <img src="/assets/images/team/{{ page.image }}"
-         style="filter: grayscale(100%); max-width: 200px;" />
+         style="filter: grayscale(100%); max-width: 200px; border-radius: 50%;" />
 
     <!-- Name & Role -->
     <h1>{{ page.title }}</h1>
@@ -57,7 +55,7 @@ layout: default
 <!-- Education -->
 <div>
     <h3>Education</h3>
-    <ul class="list-unstyled">
+    <ul>
         {% for education in page.education %}
         <li>{{education}}</li>
         {% endfor %}
