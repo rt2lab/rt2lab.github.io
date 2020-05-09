@@ -5,8 +5,6 @@ excerpt: "RT2 Lab at Institut Curie"
 permalink: /
 ---
 
-### About the Lab
-
 The “Residual Tumor and Response to Treatment Laboratory” has four main goals.
 
 **Identification of clinical and pathological factors correlated with the long-term prognosis of TNBC and HER2 positive breast cancer patients treated by neoadjuvant chemotherapy.**
