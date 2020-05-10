@@ -28,10 +28,12 @@ bundle exec jekyll serve
 ### Publications from Zotero
 
 ``` python
+import json
+
 import pandas as pd
 from unidecode import unidecode
 
-df = pd.read_csv("...", encoding="utf8")
+df = pd.read_csv("publications.csv", encoding="utf8")
 
 df = df[[
     "Item Type",
@@ -51,9 +53,14 @@ df = df[[
 ]]
 
 df["Author"] = df["Author"].apply(unidecode)
+df["Title"] = df["Title"].apply(unidecode)
+df["Short Title"] = df["Short Title"].fillna("").apply(unidecode)
 df["Abstract Note"] = df["Abstract Note"].fillna("").apply(unidecode)
 
-df.to_json("_data/publications.json", orient="records")
+df_json = df.to_dict(orient="records")
+
+with open("data_/publications.json", "w") as f:
+    json.dump(df_json, f)
 ```
 
 ### Add a new member
