@@ -10,8 +10,8 @@
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
-{% if jekyll.environment == 'production' %}
-  {% include analytics.html %}
+{% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include ga.html %}
 {% endif %}
 
 </head>
