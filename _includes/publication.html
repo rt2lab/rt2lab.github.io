@@ -1,18 +1,24 @@
 <li class="media mb-1">
-    <!-- authors -->
-    {% assign authors = "" | split:"/" %}
-    {% for author in publi.author %}
-        {% assign authors = authors | push: author.family %}
-    {% endfor %}
-
     <div class="media-body">
 
         <p>
-            {{ authors | array_to_sentence_string }},
+            <!-- author -->
+            {{ publi.Author }},
 
-            "{{ publi.title }}", {{ publi.container-title }}
+            <!-- year -->
+            {{ publi['Publication Year'] | to_integer }},
 
-            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }})
+            <!-- article title -->
+            "{{ publi.Title }}",
+
+            <!-- journal -->
+            <span class="font-italic">{{ publi['Publication Title'] }}</span>,
+
+            {% if publi.Volume > 0  and publi.Issue > 0 and publi.Pages != "" %}
+                vol. {{ publi.Volume | to_integer }},
+                no. {{ publi.Issue | to_integer }},
+                pp. {{ publi.Pages }}
+            {% endif %}
 
             <!-- DOI -->
             {% if publi.DOI %}

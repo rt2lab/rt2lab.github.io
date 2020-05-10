@@ -5,8 +5,19 @@ excerpt: RT2 Lab -- Publications.
 permalink: /publications/
 ---
 
+<h2>Lab publications by year</h2>
+
 <ul class="list-unstyled">
-    {% for publi in site.data.publications %}
-        {%- include publication.html -%}
+    {% assign publications = site.data.publications | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
+    {% for group in  publications %}
+
+        {% assign year = group.name | to_integer %}
+        {% if year > 0 %}
+            <h3>Year {{ year }}</h3>
+            {% for publi in group.items %}
+                {%- include publication.html -%}
+            {% endfor %}
+        {% endif %}
+
     {% endfor %}
 </ul>
