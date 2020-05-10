@@ -25,6 +25,37 @@ bundle exec jekyll serve
 
 ## Contribute
 
+### Publications from Zotero
+
+``` python
+import pandas as pd
+from unidecode import unidecode
+
+df = pd.read_csv("...", encoding="utf8")
+
+df = df[[
+    "Item Type",
+    "Publication Year",
+    "Author",
+    "Title",
+    "Short Title",
+    "Publication Title",
+    "DOI",
+    "Url",
+    "Abstract Note",
+    "Date",
+    "Pages",
+    "Issue",
+    "Volume",
+    "Library Catalog"
+]]
+
+df["Author"] = df["Author"].apply(unidecode)
+df["Abstract Note"] = df["Abstract Note"].fillna("").apply(unidecode)
+
+df.to_json("_data/publications.json", orient="records")
+```
+
 ### Add a new member
 
 New members are stored as markdown files under [_pages/team/_posts](_pages/team/_posts).
