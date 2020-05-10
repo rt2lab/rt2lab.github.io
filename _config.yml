@@ -21,6 +21,10 @@ include:
 
 sass_dir: ./_sass
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
