@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: alumni
 title: Judith Abécassis
 image: judith.jpg
 role: PhD Student (in co-supervision with the <a target="blank" href="http://cbio.mines-paristech.fr/">CBIO</a>)

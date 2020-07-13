@@ -5,9 +5,6 @@ excerpt: RT2 Lab -- Publications.
 permalink: /publications/
 ---
 
-<h2>Lab publications by year</h2>
-
-
 <ul class="list-unstyled">
     {% assign pub_list = site.data.publications | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
@@ -15,7 +12,7 @@ permalink: /publications/
 
         {% assign year = group.name | to_integer %}
 
-        <h3>Year {{ year }}</h3>
+        <h3 class="mt-4">{{ year }}</h3>
         {% for publi in group.items %}
             {%- include publication.html -%}
         {% endfor %}

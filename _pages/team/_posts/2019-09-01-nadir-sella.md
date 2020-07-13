@@ -6,7 +6,7 @@ image: nadir.jpg
 role: Postdoctoral Researcher
 permalink: 'team/nadir-sella'
 social:
-    twitter:
+    twitter: https://twitter.com/Nadir49907578
     linkedin:
     google-scholar:
     github:
