@@ -8,10 +8,10 @@ permalink: 'team/eric-daoud'
 social:
     twitter: https://twitter.com/ericdaoud
     linkedin: https://linkedin.com/in/ericdaoud
-    google-scholar:
+    google-scholar: https://scholar.google.com/citations?user=6MyQM4wAAAAJ&hl=en
     github: https://github.com/ericdaat
     website: https://edaoud.com
-    orcid:
+    orcid: https://orcid.org/0000-0003-4556-0856
 education:
  - MSc in Software Engineering, ECAM Lyon (2015)
  - MS in Cloud Computing and Data Science, CentraleSupélec (2016)
