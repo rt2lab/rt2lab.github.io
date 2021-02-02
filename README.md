@@ -23,6 +23,13 @@ Run the local webserver with:
 bundle exec jekyll serve
 ```
 
+You can also use the Makefile:
+
+``` bash
+make install;
+make serve;
+```
+
 ## Contribute
 
 ### Publications from Zotero
