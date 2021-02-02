@@ -1,4 +1,5 @@
 install:
+	bundle update;
 	bundle install;
 
 serve:
