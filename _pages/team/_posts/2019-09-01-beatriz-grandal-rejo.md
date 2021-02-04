@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: phd-student
 title: Beatriz Grandal Rejo
 image: beatriz.jpg
 role: PhD Student

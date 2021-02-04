@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: phd-student
 title: Elise Dumas
 image: elise.jpeg
 role: PhD Student (in co-supervision with the <a target="blank" href="http://cbio.mines-paristech.fr/">CBIO</a>)

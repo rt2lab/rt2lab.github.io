@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: phd-student
 title: Eric Daoud
 image: eric.png
 role: PhD Student
