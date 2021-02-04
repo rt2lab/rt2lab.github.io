@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: alumni
 title: Aullene Toussaint
 image: aullene.jpg
 role: Project Manager
